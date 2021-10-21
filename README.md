@@ -1,3 +1,12 @@
+# 1. Firstly clone or download repository
+### git clone https://github.com/pandeyom331/Zip-File-Explorer.git
+
+# 2. Open cmd propmt in cloned repository then run
+### npm install
+
+# 3. After that You can run
+### npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
