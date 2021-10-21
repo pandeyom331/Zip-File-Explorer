@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Zip-File-Explorer/static/css/main.17e272b5.chunk.css",
+    "main.js": "/Zip-File-Explorer/static/js/main.26c6a980.chunk.js",
+    "main.js.map": "/Zip-File-Explorer/static/js/main.26c6a980.chunk.js.map",
+    "runtime-main.js": "/Zip-File-Explorer/static/js/runtime-main.616efebf.js",
+    "runtime-main.js.map": "/Zip-File-Explorer/static/js/runtime-main.616efebf.js.map",
+    "static/js/2.03a1db45.chunk.js": "/Zip-File-Explorer/static/js/2.03a1db45.chunk.js",
+    "static/js/2.03a1db45.chunk.js.map": "/Zip-File-Explorer/static/js/2.03a1db45.chunk.js.map",
+    "index.html": "/Zip-File-Explorer/index.html",
+    "static/css/main.17e272b5.chunk.css.map": "/Zip-File-Explorer/static/css/main.17e272b5.chunk.css.map",
+    "static/js/2.03a1db45.chunk.js.LICENSE.txt": "/Zip-File-Explorer/static/js/2.03a1db45.chunk.js.LICENSE.txt",
+    "static/media/1.ac1263ee.png": "/Zip-File-Explorer/static/media/1.ac1263ee.png",
+    "static/media/7z.png": "/Zip-File-Explorer/static/media/7z.e4cca8b1.png",
+    "static/media/Rar.png": "/Zip-File-Explorer/static/media/Rar.ba239c3d.png",
+    "static/media/Zip.jfif": "/Zip-File-Explorer/static/media/Zip.9427943c.jfif",
+    "static/media/logo.a16bfe33.png": "/Zip-File-Explorer/static/media/logo.a16bfe33.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.616efebf.js",
+    "static/js/2.03a1db45.chunk.js",
+    "static/css/main.17e272b5.chunk.css",
+    "static/js/main.26c6a980.chunk.js"
+  ]
+}
