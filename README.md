@@ -6,6 +6,16 @@
 
 # 3. After that You can run
 ### npm start
+<hr width="760px;">  
+## SCREENSHOTS--
+  
+  <img src="https://github.com/pandeyom331/Zip-File-Explorer/blob/master/ss/Screenshot%20(162).png?raw=true" width="75%"></img><hr width="760px;">  
+  
+   <img src="https://github.com/pandeyom331/Zip-File-Explorer/blob/master/ss/Screenshot%20(163).png?raw=true" width="75%"></img><hr width="760px;">  
+   
+   
+   <img src="https://github.com/pandeyom331/Zip-File-Explorer/blob/master/ss/Screenshot%20(165).png?raw=true" width="75%"></img><hr width="760px;">  
+
 
 # Getting Started with Create React App
 
